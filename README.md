@@ -1,5 +1,4 @@
 ## Hi there,i'm Zeynab Jalalian.👋
----
 ##### A Front End Developer 
 ---
 ### Languages :
