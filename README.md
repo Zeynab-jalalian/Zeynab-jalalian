@@ -9,7 +9,7 @@
  ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ---
 ### My Social Accounts :
-<a href="https;//instagram.com/frontend.end"><img src="https://github.com/Zeynab-jalalian/Zeynab-jalalian/blob/main/icons8-instagram-94.png?raw=true"></a>
+<a href="https://instagram.com/frontend.end"><img src="https://github.com/Zeynab-jalalian/Zeynab-jalalian/blob/main/icons8-instagram-94.png?raw=true"></a>
 ---
 ### My Activity :
 <img src="https://github-readme-stats.vercel.app/api?username=zeynab-jalalian&show_icons=true&theme=highcontrast">
