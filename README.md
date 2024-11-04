@@ -1,4 +1,4 @@
-## Hi there,i'm Zeynab Jalalian.👋
+## Hi there,I'm Zeynab Jalalian.👋
 ### ```A Front End Developer```
 ---
 ### Languages and tools :
