@@ -19,7 +19,7 @@
  ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ---
 ### My Social Accounts :
-<a href="https://instagram.com/frontend.end"><img src="https://github.com/Zeynab-jalalian/Zeynab-jalalian/blob/main/icons8-instagram-94.png?raw=true"></a>
+<a href="https://instagram.com/zeynabjalalian.web"><img src="https://github.com/Zeynab-jalalian/Zeynab-jalalian/blob/main/icons8-instagram-94.png?raw=true"></a>
 <a href="mailto:Zjalalianweb@gmail.com"><img src="https://github.com/Zeynab-jalalian/Zeynab-jalalian/blob/main/icons8-email-100%20(1).png?raw=true"></a>
 ---
 <!--
